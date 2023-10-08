@@ -1,5 +1,5 @@
 ######
 
-This is repo has miscellaneous scripts used to automate various task during OSCP exam.
+This repo has miscellaneous scripts, used to automate various task during OSCP exam.
 
 ######
