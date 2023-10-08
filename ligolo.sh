@@ -1,4 +1,5 @@
 #!/bin/bash
+# Download ligolo binaries and change path accordingly
 # usage : ligolo.sh -n 10.10.10.0/24 -p 8443
 
 while getopts "n:p:" flag; do
