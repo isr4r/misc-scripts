@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script to make Pentesting enviornment ready.
-# This script will connect to OSCP VPN (or any), setup qterminal with multiple slit terminals, tabs and tmux. 
+# This script will connect to OSCP VPN (or any), setup qterminal with multiple split terminals, tabs and tmux. 
 
 # start with little delay
 sleep 1
